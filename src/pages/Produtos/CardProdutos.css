@@ -1,6 +1,13 @@
 .container{
-    background-color: gray;
+    background-color: rgb(255, 255, 255);
 }
+
 h2{
-    color: red
+    color: rgb(0, 0, 0)   
+}
+
+img{
+width: 40%;
+border: 40%;
+margin: 20%;
 }

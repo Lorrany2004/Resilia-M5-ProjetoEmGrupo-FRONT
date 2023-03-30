@@ -1,8 +1,18 @@
 .pageProdutos{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 8%;
 }
+
 .cardProdutos{
-    display: flex;
+display: flex;
+margin: 5%;
+}
+
+h1{
+background-color: black;
+width: 100%;
+text-align: center;
+color: ivory;
 }
